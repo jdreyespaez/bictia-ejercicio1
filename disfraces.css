@@ -176,6 +176,7 @@ h1, h2, h3, h4, h5 {
 .col {
   background: salmon;
   padding: 20px;
+  text-align: center;
 }
 
 .flex-grid-thirds .col-center {
@@ -184,7 +185,7 @@ h1, h2, h3, h4, h5 {
 }
 
 span.emoji {
-  font-size: 300px;
+  font-size: 200px;
   text-align: center;
   vertical-align: middle;
 }

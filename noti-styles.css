@@ -170,8 +170,12 @@ a:visited {
   padding: 10px;
 }
 
+.col {
+  text-align: center;
+}
+
 span.emoji {
-  font-size: 300px;
+  font-size: 200px;
   text-align: center;
   vertical-align: middle;
 }
